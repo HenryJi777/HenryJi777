@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HenryJi777.
-- 👀 I’m interested in ycling and photography.
+- 👀 I’m interested in cycling and photography.
 - 🌱 I’m currently learning python in physics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
